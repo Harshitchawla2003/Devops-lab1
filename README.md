@@ -14,6 +14,6 @@
 ## Lab-03
 1. Create two feature branches
 2. Make some changes to both the branches
-3. Merge one branch
-4. Rebase the other
+3. Rebase one branch
+4. And then Fast forward merge the other branch
 5. Note the changes
