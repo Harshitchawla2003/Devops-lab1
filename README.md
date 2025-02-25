@@ -10,4 +10,10 @@
 9. check commits using git log
 10. create a new branch and check the number of branches present
 11. shift to the new branch using 6th point
-12. 
+
+## Lab-03
+1. Create two feature branches
+2. Make some changes to both the branches
+3. Merge one branch
+4. Rebase the other
+5. Note the changes
