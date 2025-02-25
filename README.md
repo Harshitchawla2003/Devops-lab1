@@ -17,3 +17,4 @@
 3. Rebase one branch
 4. And then Fast forward merge the other branch
 5. Note the changes
+
