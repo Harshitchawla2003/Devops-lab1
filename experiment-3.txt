@@ -7,3 +7,4 @@ this is for normal merge
 
 for squash 1
 for squash 2
+for squash 3
